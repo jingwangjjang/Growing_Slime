@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Growing_Slime", "Growing_Slime.vcxproj", "{D7A3C343-DE43-4487-8FBF-76DB5677E614}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Growing_Slime_Installer", "..\Growing_Slime_Installer\Growing_Slime_Installer.vdproj", "{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Debug|x64.ActiveCfg = Debug|x64
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Debug|x64.Build.0 = Debug|x64
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Debug|x86.Build.0 = Debug|Win32
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Release|x64.ActiveCfg = Release|x64
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Release|x64.Build.0 = Release|x64
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Release|x86.ActiveCfg = Release|Win32
+		{D7A3C343-DE43-4487-8FBF-76DB5677E614}.Release|x86.Build.0 = Release|Win32
+		{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}.Debug|x64.ActiveCfg = Debug
+		{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}.Debug|x86.ActiveCfg = Debug
+		{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}.Release|x64.ActiveCfg = Release
+		{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}.Release|x86.ActiveCfg = Release
+		{EEDD5C1E-02DC-4A9C-9EFE-F06B4B6CD9C3}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D07DCDAB-9665-4A86-B752-1F78C034E2B1}
+	EndGlobalSection
+EndGlobal
